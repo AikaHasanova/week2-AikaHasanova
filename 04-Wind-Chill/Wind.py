@@ -18,8 +18,11 @@ air_speed = int(input("Enter the air speed"))
 wct_index = 35.74 + 0.6215 * air_temp - 35.75 * air_speed**0.16 + 0.4275 * air_temp * air_speed**0.16
 print("Wind temperature index is : ", wct_index)
 
-answer = str(input('Do you want to continue? (y/n): '))
-if answer == 'n':
+answer = str(input('Do you want to continue? (yes/no): '))
+if answer == 'no':
    print ('Goodbye')
+if answer=='yes':
+   print("start again")
+
 
 
