@@ -6,7 +6,9 @@ Sizin proqram küləyin temperatur indeksini verilmiş şərtlərə görə hesab
 # Assignment Specifications
 Bu proyekt iki məntiqi hissəyə ayrılır.
 
-Aşağıda verilmiş hava temperaturu (Fahrenheit ilə) və küləyin sürətindən istifadə edərək soyuq küləyin temperaturunun indeksini tapmalısınız:
+Aşağıda verilmiş hava temperaturu (Fahrenheit ilə) və 
+küləyin sürətindən istifadə edərək soyuq küləyin 
+temperaturunun indeksini tapmalısınız:
 
 * 10.0 dərəcə və 15 Mil / Saniyə
 * 0.0 dərəcə və 25 Mil / Saniyə
@@ -22,7 +24,8 @@ Daha sonra sizin proqram istifadəçidən:
 Soyuq küləyin temperaturunun indeksi aşağıdakı formula ilə hesablanır:
 
 ```python
-wct_index = 35.74 + 0.6215 * air_temp - 35.75 * air_speed**0.16 + 0.4275 * air_temp * air_speed**0.16
+wct_index = 35.74 + 0.6215 * air_temp - 35.75 * 
+air_speed**0.16 + 0.4275 * air_temp * air_speed**0.16
 ```
 
 ---

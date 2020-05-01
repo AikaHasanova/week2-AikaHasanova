@@ -2,13 +2,19 @@
 
 General Douglas MacArthur gəncləri maraqlı sehrbazlıqlarla təəccübləndirmək üçün aşağıdakı qaydaları edirdi:
 
-* İştirakçıdan doğulduğu ayın rəqəmini yadda saxlamağı istəyir. Misalçün fevral ayında doğulmuşdursa onda bu rəqəm 2 olacaq.
+* İştirakçıdan doğulduğu ayın rəqəmini yadda saxlamağı istəyir.
+ Misalçün fevral ayında doğulmuşdursa onda bu rəqəm 2 olacaq.
 * Həmən rəqəmi iki dəfə artırmaq. (2 * 2 = 4)
 * Üzərinə 5 əlavə etmək (4 + 5 = 9)
 * Alınan rəqəmi 50-yə vurmaq (9 * 50 = 450)
-* Alınan rəqəmin üzərinə iştirakçının öz yaşını gəlməsini istəyir. (Misalçün əgər iştirakçının yaşı 40-dırsa onda 450 + 40 = 490)
-* Alınan rəqəmdən 365 çıxmasını istəyir və alınan rəqəmi səsləndirməsini istəyir (490 - 365 = 125)
-* Sonda General eşitdiyi rəqəmin üzərinə xəyalında 115 əlavə edərək alınan rəqəmin son iki hissəsi ilə iştirakçının yaşını tapır, qalan hissəsi ilə hansı ayda doğulduğunu tapır. (125 + 115 = 240. Burada 2 fevral ayını göstərir, 40 isə iştirakçının yaşını)
+* Alınan rəqəmin üzərinə iştirakçının öz yaşını gəlməsini istəyir.
+ (Misalçün əgər iştirakçının yaşı 40-dırsa onda 450 + 40 = 490)
+* Alınan rəqəmdən 365 çıxmasını istəyir və alınan rəqəmi səsləndirməsini istəyir 
+(490 - 365 = 125)
+* Sonda General eşitdiyi rəqəmin üzərinə xəyalında 115 
+əlavə edərək alınan rəqəmin son iki hissəsi ilə iştirakçının yaşını tapır,
+ qalan hissəsi ilə hansı ayda doğulduğunu tapır. (125 + 115 = 240. 
+ Burada 2 fevral ayını göstərir, 40 isə iştirakçının yaşını)
 
 ## Program Specification
 

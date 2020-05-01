@@ -12,13 +12,18 @@ Konvertasiyalar həm elmdə həm də gündəlik həyatımızda faydalıdır. Bu 
 
 ![BWCA map](./map.jpg)
 
-Xəritədə göllər arasında daşınmalar qara xətlərlə göstərilmişdir. Ölçü vahidi isə ROD (1 rod == 5.0292 metr) ilə verilmişdir. Qırmızı üçbucaqlar isə kampların yerləşmə nöqtələridir.
+Xəritədə göllər arasında daşınmalar qara xətlərlə göstərilmişdir. 
+Ölçü vahidi isə ROD (1 rod == 5.0292 metr) ilə verilmişdir. 
+Qırmızı üçbucaqlar isə kampların yerləşmə nöqtələridir.
 
-Proqram istifadəçidən ROD ilə məsafə daxil etməsini tələb etməlidir. Daxil olunan məsafə kəsr ədədi ilə ola bilər. Siz ROD ilə daxil edilən məsafəni aşağıdakı uzunluq vahidlərinə çevirərək göstərməlisiniz:
+Proqram istifadəçidən ROD ilə məsafə daxil etməsini tələb etməlidir.
+ Daxil olunan məsafə kəsr ədədi ilə ola bilər. 
+ Siz ROD ilə daxil edilən məsafəni aşağıdakı 
+ uzunluq vahidlərinə çevirərək göstərməlisiniz:
 
 * metr
 * feet
-* mil
+* mile
 * furlong
 * daxil edilən məsafəni dəqiqə ilə nə qədər vaxta qət etmək olar?
 

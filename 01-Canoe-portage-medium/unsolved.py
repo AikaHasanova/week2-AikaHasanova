@@ -1,3 +1,4 @@
+
 # 1 rod = 5.0292 meters
 ROD = 5.0292
 
@@ -16,11 +17,11 @@ WALKING_SPEED = 3.1 / 60
 rods = input("Input rods:")
 
 rods = float(rods)
-meters = ?
-feet = ?
-miles = ?
-furlongs = ?
-minutes = ?
+meters = float(rods*5.0292)
+feet = float(meters/FOOT)
+miles = float(meters/MILE)
+furlongs = float(rods/FURLONG)
+minutes = float(miles/WALKING_SPEED)
 
 
 print("Your input:", rods, "rods.", "\n\n")
