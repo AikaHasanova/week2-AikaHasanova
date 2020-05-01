@@ -5,11 +5,11 @@ CO2= 20*gallon
 energy= gallon* 115000
 price=gallon*4
 
-print("in litres : ", litr)
-print("in barrels : ", barrel)
-print("Amount of CO2 :", CO2)
-print("Amount of Energy :", energy)
-print("Price in dollars :", price)
+print("in litres : ", litr, "in barrels : ", barrel,
+      "Amount of CO2 :", CO2,"Amount of Energy :",
+       energy,"Price in dollars :", price)
+
+
 
 
 
