@@ -7,7 +7,8 @@ Elə qəbul edək ki, onun fikirləşdiyi ədəd 654 olacaq.
 2. Daha sonra bu rəqəmi tərsinə (reverse) çevirməyi istəyin (654 -> 456 olacaq)
 3. Kiçik olandan böyük olanı çıxın (654 - 456 = 198)
 4. Fərqdən alınan yeni rəqəmi də tərsinə çevirməyi istəyin (198 -> 891 olacaq)
-5. Daha sonra sonuncu iki rəqəmi toplamasını istəyin, alınan cavab 1089 olacaq (198 + 891 = 1089)
+5. Daha sonra sonuncu iki rəqəmi toplamasını istəyin, alınan cavab 
+1089 olacaq (198 + 891 = 1089)
 
 Maraqlısı budur ki, istənilən 3 rəqəmli integer
  üzərində bu əməliyyatları aparanda nəticədə 1089 alınacaq
